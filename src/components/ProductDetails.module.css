@@ -1,0 +1,26 @@
+
+
+.title{
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.detail{
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.1rem;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.detail li {
+    margin-bottom: 10px;
+}
+
+
+.detail li:first-child {
+    font-weight: bold;
+  }

@@ -1,0 +1,83 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.but{
+    background-color: rgb(161, 93, 194);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 15em;
+    padding: 10px;
+
+}
+
+.header{
+    margin: 50px 50px 10px 50px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+}
+
+.input{
+    width: 50em;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+
+ 
+table, th, td{
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: center;
+    margin-left: 15em;
+    height: 40px;
+    
+    
+     
+}
+tr:nth-child(even){
+    background-color: rgb(202, 224, 224);
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+
+.prev{
+    background-color: rgb(201, 198, 198);
+    border-radius: 10px;
+}
+
+.next{
+    background-color: rgb(201, 198, 198);
+    border-radius: 10px;
+    padding: 5px;
+    width: 60px;
+    height: 35px;
+}
+
+
+.page{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+
+ .searchIcon {
+    margin-right: 10px; 
+    cursor: pointer;
+    color: #888;
+    margin-left: 250px;
+  }
